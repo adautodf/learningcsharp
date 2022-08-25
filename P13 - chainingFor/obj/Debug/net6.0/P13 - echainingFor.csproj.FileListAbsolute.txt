@@ -1,0 +1,15 @@
+D:\AprendendoC#\P13 - chainingFor\bin\Debug\net6.0\P13 - echainingFor.exe
+D:\AprendendoC#\P13 - chainingFor\bin\Debug\net6.0\P13 - echainingFor.deps.json
+D:\AprendendoC#\P13 - chainingFor\bin\Debug\net6.0\P13 - echainingFor.runtimeconfig.json
+D:\AprendendoC#\P13 - chainingFor\bin\Debug\net6.0\P13 - echainingFor.dll
+D:\AprendendoC#\P13 - chainingFor\bin\Debug\net6.0\P13 - echainingFor.pdb
+D:\AprendendoC#\P13 - chainingFor\obj\Debug\net6.0\P13 - echainingFor.csproj.AssemblyReference.cache
+D:\AprendendoC#\P13 - chainingFor\obj\Debug\net6.0\P13 - echainingFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoC#\P13 - chainingFor\obj\Debug\net6.0\P13 - echainingFor.AssemblyInfoInputs.cache
+D:\AprendendoC#\P13 - chainingFor\obj\Debug\net6.0\P13 - echainingFor.AssemblyInfo.cs
+D:\AprendendoC#\P13 - chainingFor\obj\Debug\net6.0\P13 - echainingFor.csproj.CoreCompileInputs.cache
+D:\AprendendoC#\P13 - chainingFor\obj\Debug\net6.0\P13 - echainingFor.dll
+D:\AprendendoC#\P13 - chainingFor\obj\Debug\net6.0\refint\P13 - echainingFor.dll
+D:\AprendendoC#\P13 - chainingFor\obj\Debug\net6.0\P13 - echainingFor.pdb
+D:\AprendendoC#\P13 - chainingFor\obj\Debug\net6.0\P13 - echainingFor.genruntimeconfig.cache
+D:\AprendendoC#\P13 - chainingFor\obj\Debug\net6.0\ref\P13 - echainingFor.dll

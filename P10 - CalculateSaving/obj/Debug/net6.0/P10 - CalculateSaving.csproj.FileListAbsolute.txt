@@ -1,0 +1,15 @@
+D:\AprendendoC#\P10 - CalculateSaving\bin\Debug\net6.0\P10 - CalculateSaving.exe
+D:\AprendendoC#\P10 - CalculateSaving\bin\Debug\net6.0\P10 - CalculateSaving.deps.json
+D:\AprendendoC#\P10 - CalculateSaving\bin\Debug\net6.0\P10 - CalculateSaving.runtimeconfig.json
+D:\AprendendoC#\P10 - CalculateSaving\bin\Debug\net6.0\P10 - CalculateSaving.dll
+D:\AprendendoC#\P10 - CalculateSaving\bin\Debug\net6.0\P10 - CalculateSaving.pdb
+D:\AprendendoC#\P10 - CalculateSaving\obj\Debug\net6.0\P10 - CalculateSaving.csproj.AssemblyReference.cache
+D:\AprendendoC#\P10 - CalculateSaving\obj\Debug\net6.0\P10 - CalculateSaving.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoC#\P10 - CalculateSaving\obj\Debug\net6.0\P10 - CalculateSaving.AssemblyInfoInputs.cache
+D:\AprendendoC#\P10 - CalculateSaving\obj\Debug\net6.0\P10 - CalculateSaving.AssemblyInfo.cs
+D:\AprendendoC#\P10 - CalculateSaving\obj\Debug\net6.0\P10 - CalculateSaving.csproj.CoreCompileInputs.cache
+D:\AprendendoC#\P10 - CalculateSaving\obj\Debug\net6.0\P10 - CalculateSaving.dll
+D:\AprendendoC#\P10 - CalculateSaving\obj\Debug\net6.0\refint\P10 - CalculateSaving.dll
+D:\AprendendoC#\P10 - CalculateSaving\obj\Debug\net6.0\P10 - CalculateSaving.pdb
+D:\AprendendoC#\P10 - CalculateSaving\obj\Debug\net6.0\P10 - CalculateSaving.genruntimeconfig.cache
+D:\AprendendoC#\P10 - CalculateSaving\obj\Debug\net6.0\ref\P10 - CalculateSaving.dll

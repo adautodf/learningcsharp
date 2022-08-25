@@ -1,0 +1,15 @@
+D:\AprendendoC#\P11 - Calculate Saving 2\bin\Debug\net6.0\P11 - Calculate Saving 2.exe
+D:\AprendendoC#\P11 - Calculate Saving 2\bin\Debug\net6.0\P11 - Calculate Saving 2.deps.json
+D:\AprendendoC#\P11 - Calculate Saving 2\bin\Debug\net6.0\P11 - Calculate Saving 2.runtimeconfig.json
+D:\AprendendoC#\P11 - Calculate Saving 2\bin\Debug\net6.0\P11 - Calculate Saving 2.dll
+D:\AprendendoC#\P11 - Calculate Saving 2\bin\Debug\net6.0\P11 - Calculate Saving 2.pdb
+D:\AprendendoC#\P11 - Calculate Saving 2\obj\Debug\net6.0\P11 - Calculate Saving 2.csproj.AssemblyReference.cache
+D:\AprendendoC#\P11 - Calculate Saving 2\obj\Debug\net6.0\P11 - Calculate Saving 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoC#\P11 - Calculate Saving 2\obj\Debug\net6.0\P11 - Calculate Saving 2.AssemblyInfoInputs.cache
+D:\AprendendoC#\P11 - Calculate Saving 2\obj\Debug\net6.0\P11 - Calculate Saving 2.AssemblyInfo.cs
+D:\AprendendoC#\P11 - Calculate Saving 2\obj\Debug\net6.0\P11 - Calculate Saving 2.csproj.CoreCompileInputs.cache
+D:\AprendendoC#\P11 - Calculate Saving 2\obj\Debug\net6.0\P11 - Calculate Saving 2.dll
+D:\AprendendoC#\P11 - Calculate Saving 2\obj\Debug\net6.0\refint\P11 - Calculate Saving 2.dll
+D:\AprendendoC#\P11 - Calculate Saving 2\obj\Debug\net6.0\P11 - Calculate Saving 2.pdb
+D:\AprendendoC#\P11 - Calculate Saving 2\obj\Debug\net6.0\P11 - Calculate Saving 2.genruntimeconfig.cache
+D:\AprendendoC#\P11 - Calculate Saving 2\obj\Debug\net6.0\ref\P11 - Calculate Saving 2.dll

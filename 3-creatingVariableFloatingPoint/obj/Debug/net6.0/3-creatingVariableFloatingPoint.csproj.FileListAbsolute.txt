@@ -1,0 +1,15 @@
+D:\AprendendoC#\3-creatingVariableFloatingPoint\bin\Debug\net6.0\3-creatingVariableFloatingPoint.exe
+D:\AprendendoC#\3-creatingVariableFloatingPoint\bin\Debug\net6.0\3-creatingVariableFloatingPoint.deps.json
+D:\AprendendoC#\3-creatingVariableFloatingPoint\bin\Debug\net6.0\3-creatingVariableFloatingPoint.runtimeconfig.json
+D:\AprendendoC#\3-creatingVariableFloatingPoint\bin\Debug\net6.0\3-creatingVariableFloatingPoint.dll
+D:\AprendendoC#\3-creatingVariableFloatingPoint\bin\Debug\net6.0\3-creatingVariableFloatingPoint.pdb
+D:\AprendendoC#\3-creatingVariableFloatingPoint\obj\Debug\net6.0\3-creatingVariableFloatingPoint.csproj.AssemblyReference.cache
+D:\AprendendoC#\3-creatingVariableFloatingPoint\obj\Debug\net6.0\3-creatingVariableFloatingPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoC#\3-creatingVariableFloatingPoint\obj\Debug\net6.0\3-creatingVariableFloatingPoint.AssemblyInfoInputs.cache
+D:\AprendendoC#\3-creatingVariableFloatingPoint\obj\Debug\net6.0\3-creatingVariableFloatingPoint.AssemblyInfo.cs
+D:\AprendendoC#\3-creatingVariableFloatingPoint\obj\Debug\net6.0\3-creatingVariableFloatingPoint.csproj.CoreCompileInputs.cache
+D:\AprendendoC#\3-creatingVariableFloatingPoint\obj\Debug\net6.0\3-creatingVariableFloatingPoint.dll
+D:\AprendendoC#\3-creatingVariableFloatingPoint\obj\Debug\net6.0\refint\3-creatingVariableFloatingPoint.dll
+D:\AprendendoC#\3-creatingVariableFloatingPoint\obj\Debug\net6.0\3-creatingVariableFloatingPoint.pdb
+D:\AprendendoC#\3-creatingVariableFloatingPoint\obj\Debug\net6.0\3-creatingVariableFloatingPoint.genruntimeconfig.cache
+D:\AprendendoC#\3-creatingVariableFloatingPoint\obj\Debug\net6.0\ref\3-creatingVariableFloatingPoint.dll

@@ -1,0 +1,15 @@
+D:\AprendendoC#\4 - conversionsOfOtherTypes\bin\Debug\net6.0\4 - conversionsOfOtherTypes.exe
+D:\AprendendoC#\4 - conversionsOfOtherTypes\bin\Debug\net6.0\4 - conversionsOfOtherTypes.deps.json
+D:\AprendendoC#\4 - conversionsOfOtherTypes\bin\Debug\net6.0\4 - conversionsOfOtherTypes.runtimeconfig.json
+D:\AprendendoC#\4 - conversionsOfOtherTypes\bin\Debug\net6.0\4 - conversionsOfOtherTypes.dll
+D:\AprendendoC#\4 - conversionsOfOtherTypes\bin\Debug\net6.0\4 - conversionsOfOtherTypes.pdb
+D:\AprendendoC#\4 - conversionsOfOtherTypes\obj\Debug\net6.0\4 - conversionsOfOtherTypes.csproj.AssemblyReference.cache
+D:\AprendendoC#\4 - conversionsOfOtherTypes\obj\Debug\net6.0\4 - conversionsOfOtherTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoC#\4 - conversionsOfOtherTypes\obj\Debug\net6.0\4 - conversionsOfOtherTypes.AssemblyInfoInputs.cache
+D:\AprendendoC#\4 - conversionsOfOtherTypes\obj\Debug\net6.0\4 - conversionsOfOtherTypes.AssemblyInfo.cs
+D:\AprendendoC#\4 - conversionsOfOtherTypes\obj\Debug\net6.0\4 - conversionsOfOtherTypes.csproj.CoreCompileInputs.cache
+D:\AprendendoC#\4 - conversionsOfOtherTypes\obj\Debug\net6.0\4 - conversionsOfOtherTypes.dll
+D:\AprendendoC#\4 - conversionsOfOtherTypes\obj\Debug\net6.0\refint\4 - conversionsOfOtherTypes.dll
+D:\AprendendoC#\4 - conversionsOfOtherTypes\obj\Debug\net6.0\4 - conversionsOfOtherTypes.pdb
+D:\AprendendoC#\4 - conversionsOfOtherTypes\obj\Debug\net6.0\4 - conversionsOfOtherTypes.genruntimeconfig.cache
+D:\AprendendoC#\4 - conversionsOfOtherTypes\obj\Debug\net6.0\ref\4 - conversionsOfOtherTypes.dll

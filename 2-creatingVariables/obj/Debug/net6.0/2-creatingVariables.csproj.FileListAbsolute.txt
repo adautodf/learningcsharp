@@ -1,0 +1,15 @@
+D:\AprendendoC#\2-creatingVariables\bin\Debug\net6.0\2-creatingVariables.exe
+D:\AprendendoC#\2-creatingVariables\bin\Debug\net6.0\2-creatingVariables.deps.json
+D:\AprendendoC#\2-creatingVariables\bin\Debug\net6.0\2-creatingVariables.runtimeconfig.json
+D:\AprendendoC#\2-creatingVariables\bin\Debug\net6.0\2-creatingVariables.dll
+D:\AprendendoC#\2-creatingVariables\bin\Debug\net6.0\2-creatingVariables.pdb
+D:\AprendendoC#\2-creatingVariables\obj\Debug\net6.0\2-creatingVariables.csproj.AssemblyReference.cache
+D:\AprendendoC#\2-creatingVariables\obj\Debug\net6.0\2-creatingVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoC#\2-creatingVariables\obj\Debug\net6.0\2-creatingVariables.AssemblyInfoInputs.cache
+D:\AprendendoC#\2-creatingVariables\obj\Debug\net6.0\2-creatingVariables.AssemblyInfo.cs
+D:\AprendendoC#\2-creatingVariables\obj\Debug\net6.0\2-creatingVariables.csproj.CoreCompileInputs.cache
+D:\AprendendoC#\2-creatingVariables\obj\Debug\net6.0\2-creatingVariables.dll
+D:\AprendendoC#\2-creatingVariables\obj\Debug\net6.0\refint\2-creatingVariables.dll
+D:\AprendendoC#\2-creatingVariables\obj\Debug\net6.0\2-creatingVariables.pdb
+D:\AprendendoC#\2-creatingVariables\obj\Debug\net6.0\2-creatingVariables.genruntimeconfig.cache
+D:\AprendendoC#\2-creatingVariables\obj\Debug\net6.0\ref\2-creatingVariables.dll

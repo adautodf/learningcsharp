@@ -1,0 +1,15 @@
+D:\AprendendoC#\9 - scope\bin\Debug\net6.0\9 - scope.exe
+D:\AprendendoC#\9 - scope\bin\Debug\net6.0\9 - scope.deps.json
+D:\AprendendoC#\9 - scope\bin\Debug\net6.0\9 - scope.runtimeconfig.json
+D:\AprendendoC#\9 - scope\bin\Debug\net6.0\9 - scope.dll
+D:\AprendendoC#\9 - scope\bin\Debug\net6.0\9 - scope.pdb
+D:\AprendendoC#\9 - scope\obj\Debug\net6.0\9 - scope.csproj.AssemblyReference.cache
+D:\AprendendoC#\9 - scope\obj\Debug\net6.0\9 - scope.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoC#\9 - scope\obj\Debug\net6.0\9 - scope.AssemblyInfoInputs.cache
+D:\AprendendoC#\9 - scope\obj\Debug\net6.0\9 - scope.AssemblyInfo.cs
+D:\AprendendoC#\9 - scope\obj\Debug\net6.0\9 - scope.csproj.CoreCompileInputs.cache
+D:\AprendendoC#\9 - scope\obj\Debug\net6.0\9 - scope.dll
+D:\AprendendoC#\9 - scope\obj\Debug\net6.0\refint\9 - scope.dll
+D:\AprendendoC#\9 - scope\obj\Debug\net6.0\9 - scope.pdb
+D:\AprendendoC#\9 - scope\obj\Debug\net6.0\9 - scope.genruntimeconfig.cache
+D:\AprendendoC#\9 - scope\obj\Debug\net6.0\ref\9 - scope.dll

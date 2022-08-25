@@ -1,0 +1,15 @@
+D:\AprendendoC#\5 - charactersAndText\bin\Debug\net6.0\5 - charactersAndText.exe
+D:\AprendendoC#\5 - charactersAndText\bin\Debug\net6.0\5 - charactersAndText.deps.json
+D:\AprendendoC#\5 - charactersAndText\bin\Debug\net6.0\5 - charactersAndText.runtimeconfig.json
+D:\AprendendoC#\5 - charactersAndText\bin\Debug\net6.0\5 - charactersAndText.dll
+D:\AprendendoC#\5 - charactersAndText\bin\Debug\net6.0\5 - charactersAndText.pdb
+D:\AprendendoC#\5 - charactersAndText\obj\Debug\net6.0\5 - charactersAndText.csproj.AssemblyReference.cache
+D:\AprendendoC#\5 - charactersAndText\obj\Debug\net6.0\5 - charactersAndText.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoC#\5 - charactersAndText\obj\Debug\net6.0\5 - charactersAndText.AssemblyInfoInputs.cache
+D:\AprendendoC#\5 - charactersAndText\obj\Debug\net6.0\5 - charactersAndText.AssemblyInfo.cs
+D:\AprendendoC#\5 - charactersAndText\obj\Debug\net6.0\5 - charactersAndText.csproj.CoreCompileInputs.cache
+D:\AprendendoC#\5 - charactersAndText\obj\Debug\net6.0\5 - charactersAndText.dll
+D:\AprendendoC#\5 - charactersAndText\obj\Debug\net6.0\refint\5 - charactersAndText.dll
+D:\AprendendoC#\5 - charactersAndText\obj\Debug\net6.0\5 - charactersAndText.pdb
+D:\AprendendoC#\5 - charactersAndText\obj\Debug\net6.0\5 - charactersAndText.genruntimeconfig.cache
+D:\AprendendoC#\5 - charactersAndText\obj\Debug\net6.0\ref\5 - charactersAndText.dll

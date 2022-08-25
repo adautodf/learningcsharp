@@ -1,0 +1,15 @@
+D:\AprendendoC#\P12 - longTermInvestiment\bin\Debug\net6.0\P12 - longTermInvestment.exe
+D:\AprendendoC#\P12 - longTermInvestiment\bin\Debug\net6.0\P12 - longTermInvestment.deps.json
+D:\AprendendoC#\P12 - longTermInvestiment\bin\Debug\net6.0\P12 - longTermInvestment.runtimeconfig.json
+D:\AprendendoC#\P12 - longTermInvestiment\bin\Debug\net6.0\P12 - longTermInvestment.dll
+D:\AprendendoC#\P12 - longTermInvestiment\bin\Debug\net6.0\P12 - longTermInvestment.pdb
+D:\AprendendoC#\P12 - longTermInvestiment\obj\Debug\net6.0\P12 - longTermInvestment.csproj.AssemblyReference.cache
+D:\AprendendoC#\P12 - longTermInvestiment\obj\Debug\net6.0\P12 - longTermInvestment.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoC#\P12 - longTermInvestiment\obj\Debug\net6.0\P12 - longTermInvestment.AssemblyInfoInputs.cache
+D:\AprendendoC#\P12 - longTermInvestiment\obj\Debug\net6.0\P12 - longTermInvestment.AssemblyInfo.cs
+D:\AprendendoC#\P12 - longTermInvestiment\obj\Debug\net6.0\P12 - longTermInvestment.csproj.CoreCompileInputs.cache
+D:\AprendendoC#\P12 - longTermInvestiment\obj\Debug\net6.0\P12 - longTermInvestment.dll
+D:\AprendendoC#\P12 - longTermInvestiment\obj\Debug\net6.0\refint\P12 - longTermInvestment.dll
+D:\AprendendoC#\P12 - longTermInvestiment\obj\Debug\net6.0\P12 - longTermInvestment.pdb
+D:\AprendendoC#\P12 - longTermInvestiment\obj\Debug\net6.0\P12 - longTermInvestment.genruntimeconfig.cache
+D:\AprendendoC#\P12 - longTermInvestiment\obj\Debug\net6.0\ref\P12 - longTermInvestment.dll

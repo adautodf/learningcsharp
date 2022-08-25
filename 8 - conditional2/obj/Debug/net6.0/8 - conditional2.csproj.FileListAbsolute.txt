@@ -1,0 +1,15 @@
+D:\AprendendoC#\8 - conditional2\bin\Debug\net6.0\8 - conditional2.exe
+D:\AprendendoC#\8 - conditional2\bin\Debug\net6.0\8 - conditional2.deps.json
+D:\AprendendoC#\8 - conditional2\bin\Debug\net6.0\8 - conditional2.runtimeconfig.json
+D:\AprendendoC#\8 - conditional2\bin\Debug\net6.0\8 - conditional2.dll
+D:\AprendendoC#\8 - conditional2\bin\Debug\net6.0\8 - conditional2.pdb
+D:\AprendendoC#\8 - conditional2\obj\Debug\net6.0\8 - conditional2.csproj.AssemblyReference.cache
+D:\AprendendoC#\8 - conditional2\obj\Debug\net6.0\8 - conditional2.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoC#\8 - conditional2\obj\Debug\net6.0\8 - conditional2.AssemblyInfoInputs.cache
+D:\AprendendoC#\8 - conditional2\obj\Debug\net6.0\8 - conditional2.AssemblyInfo.cs
+D:\AprendendoC#\8 - conditional2\obj\Debug\net6.0\8 - conditional2.csproj.CoreCompileInputs.cache
+D:\AprendendoC#\8 - conditional2\obj\Debug\net6.0\8 - conditional2.dll
+D:\AprendendoC#\8 - conditional2\obj\Debug\net6.0\refint\8 - conditional2.dll
+D:\AprendendoC#\8 - conditional2\obj\Debug\net6.0\8 - conditional2.pdb
+D:\AprendendoC#\8 - conditional2\obj\Debug\net6.0\8 - conditional2.genruntimeconfig.cache
+D:\AprendendoC#\8 - conditional2\obj\Debug\net6.0\ref\8 - conditional2.dll

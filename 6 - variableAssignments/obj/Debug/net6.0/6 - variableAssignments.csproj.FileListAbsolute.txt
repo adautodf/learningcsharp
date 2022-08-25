@@ -1,0 +1,15 @@
+D:\AprendendoC#\6 - variableAssignments\bin\Debug\net6.0\6 - variableAssignments.exe
+D:\AprendendoC#\6 - variableAssignments\bin\Debug\net6.0\6 - variableAssignments.deps.json
+D:\AprendendoC#\6 - variableAssignments\bin\Debug\net6.0\6 - variableAssignments.runtimeconfig.json
+D:\AprendendoC#\6 - variableAssignments\bin\Debug\net6.0\6 - variableAssignments.dll
+D:\AprendendoC#\6 - variableAssignments\bin\Debug\net6.0\6 - variableAssignments.pdb
+D:\AprendendoC#\6 - variableAssignments\obj\Debug\net6.0\6 - variableAssignments.csproj.AssemblyReference.cache
+D:\AprendendoC#\6 - variableAssignments\obj\Debug\net6.0\6 - variableAssignments.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoC#\6 - variableAssignments\obj\Debug\net6.0\6 - variableAssignments.AssemblyInfoInputs.cache
+D:\AprendendoC#\6 - variableAssignments\obj\Debug\net6.0\6 - variableAssignments.AssemblyInfo.cs
+D:\AprendendoC#\6 - variableAssignments\obj\Debug\net6.0\6 - variableAssignments.csproj.CoreCompileInputs.cache
+D:\AprendendoC#\6 - variableAssignments\obj\Debug\net6.0\6 - variableAssignments.dll
+D:\AprendendoC#\6 - variableAssignments\obj\Debug\net6.0\refint\6 - variableAssignments.dll
+D:\AprendendoC#\6 - variableAssignments\obj\Debug\net6.0\6 - variableAssignments.pdb
+D:\AprendendoC#\6 - variableAssignments\obj\Debug\net6.0\6 - variableAssignments.genruntimeconfig.cache
+D:\AprendendoC#\6 - variableAssignments\obj\Debug\net6.0\ref\6 - variableAssignments.dll
